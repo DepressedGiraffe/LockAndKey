@@ -1,4 +1,8 @@
 # LockAndKey
+[![Discord Bots](https://discordbots.org/api/widget/status/391977843229458443.svg)](https://discordbots.org/bot/391977843229458443)[![Discord Bots](https://discordbots.org/api/widget/servers/391977843229458443.svg?noavatar=true)](https://discordbots.org/bot/391977843229458443)[![Discord Bots](https://discordbots.org/api/widget/upvotes/391977843229458443.svg?noavatar=true)](https://discordbots.org/bot/391977843229458443)
+
+
+
 
 Lock&Key provides easy to use commands to create, edit, and remove temporary private voice channels.
 Private voice channels are deleted ~3 minutes after everyone leaves so you don't have to worry about them cluttering your server.
