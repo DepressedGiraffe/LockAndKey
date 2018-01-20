@@ -21,8 +21,6 @@ It's easy! Just simply type `!vc` and follow the instructions provided.
   8. `!vc create_category`: Creates a category that voice channels will be created in.
 </details>
 
-
-
 <details>
   <summary><b>FAQ</b></summary>
   
