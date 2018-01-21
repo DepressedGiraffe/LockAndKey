@@ -12,13 +12,14 @@ It's easy! Just simply type `~vc` and follow the instructions provided.
   <summary><b>Commands</b></summary>
   
   1. `~commands`: Shows this list.
-  2. `~vc`: Provides information about how to create a voice channel.
-  3. `~vc create`: Creates a voice channel provided that you don't already have one.
-  4. `~vc invite @members`: Invites the mentioned users to your voice channel. 
-  5. `~vc uninvite @members`: Removes the mentioned users from your voice channel.
-  6. `~vc lock`: Makes your channel private.
-  7. `~vc unlock`: Makes your channel public.
-  8. `~vc create_category`: Creates a category that voice channels will be created in.
+  2. `~prefix`: Sets the server prefix.
+  3. `~vc`: Provides information about how to create a voice channel.
+  4. `~vc create`: Creates a voice channel provided that you don't already have one.
+  5. `~vc invite @members`: Invites the mentioned users to your voice channel. 
+  6. `~vc uninvite @members`: Removes the mentioned users from your voice channel.
+  7. `~vc lock`: Makes your channel private.
+  8. `~vc unlock`: Makes your channel public.
+  9. `~vc create_category`: Creates a category that voice channels will be created in.
 </details>
 
 <details>
