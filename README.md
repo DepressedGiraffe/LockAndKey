@@ -11,7 +11,7 @@ It's easy! Just simply type `~vc` and follow the instructions provided.
 <details>
   <summary><b>Commands</b></summary>
   
-  1. `~commands`: Shows this list.
+  1. `~help`: Shows this list.
   2. `~prefix`: Sets the server prefix.
   3. `~vc`: Provides information about how to create a voice channel.
   4. `~vc create`: Creates a voice channel provided that you don't already have one.
