@@ -20,6 +20,7 @@ It's easy! Just simply type `~vc` and follow the instructions provided.
   7. `~vc lock`: Makes your channel private.
   8. `~vc unlock`: Makes your channel public.
   9. `~vc create_category`: Creates a category that voice channels will be created in.
+  10. `~suggest`: Allows you to suggest new features.
 </details>
 
 <details>
