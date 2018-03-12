@@ -67,7 +67,7 @@ Private voice channels are deleted ~3 minutes after everyone leaves so you don't
         <td <td style="text-align:center">Load your saved channel and invites.</td>
   </tr>
   <tr>
-        <td style="text-align:left">~create_category [Name]</td>
+        <td style="text-align:left">~createcategory [Name]</td>
         <td <td style="text-align:center">Creates a category. All voice channels will be created in this category.</td>
   </tr>
   <tr>
