@@ -94,6 +94,18 @@ Private voice channels are deleted ~3 minutes after everyone leaves so you don't
         <td style="text-align:left">~admin setcategory [Name]</td>
         <td style="text-align:center">Sets the category to an existing one. All voice channels will be created in this category.</td>
   </tr>
+  <tr>
+        <td style="text-align:left">~admin channels [add/remove] [channel]</td>
+        <td style="text-align:center">Sets which channels to check for commands in.</td>
+  </tr>
+  <tr>
+        <td style="text-align:left">~admin channels reset</td>
+        <td style="text-align:center">Resets the channels list.</td>
+  </tr>
+  <tr>
+        <td style="text-align:left">~admin channels list</td>
+        <td style="text-align:center">Shows a list of allowed channels.</td>
+  </tr>
   </table>
 </details>
 
