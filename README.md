@@ -1,7 +1,7 @@
 # LockAndKey
 
 [![Discord Bots](https://discordbots.org/api/widget/391977843229458443.svg)](https://discordbots.org/bot/391977843229458443)
-
+[![Bots For Discord](https://botsfordiscord.com/api/v1/bots/391977843229458443/embed)](https://botsfordiscord.com/bot/391977843229458443)
 
 <style>
   .bot-description{color:#7289DA!important;font-weight:bold!important;}
