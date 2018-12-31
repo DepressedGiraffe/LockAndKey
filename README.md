@@ -31,14 +31,6 @@ Private voice channels are deleted ~3 minutes after everyone leaves so you don't
         <td style="text-align:center">Sets the server prefix.</td>
   </tr>
   <tr>
-        <td style="text-align:left">~subscribe</td>
-        <td style="text-align:center">Get info on new stuff or commands.</td>
-  </tr>
-  <tr>
-        <td style="text-align:left">~unsubscribe</td>
-        <td style="text-align:center">Stop getting info on new stuff or commands.</td>
-  </tr>
-  <tr>
         <td style="text-align:left">~vc</td>
         <td style="text-align:center">Voice Channel base command. Creates a voice channel if you do not have one.</td>
   </tr>
@@ -79,31 +71,31 @@ Private voice channels are deleted ~3 minutes after everyone leaves so you don't
         <td style="text-align:center">Alias for ~help vc</td>
   </tr>
   <tr>
-        <td style="text-align:left">~admin visible [yes/no]</td>
+        <td style="text-align:left">~config visible [yes/no]</td>
         <td style="text-align:center">Sets whether voice channels are visible to non-invited users.</td>
   </tr>
   <tr>
-        <td style="text-align:left">~admin invite_message [yes/no]</td>
+        <td style="text-align:left">~config invite_message [yes/no]</td>
         <td style="text-align:center">Sets whether invited users should recieve a DM.</td>
   </tr>
   <tr>
-        <td style="text-align:left">~admin createcategory [Name]</td>
+        <td style="text-align:left">~config createcategory [Name]</td>
         <td style="text-align:center">Creates a category. All voice channels will be created in this category.</td>
   </tr>
   <tr>
-        <td style="text-align:left">~admin setcategory [Name]</td>
+        <td style="text-align:left">~config setcategory [Name]</td>
         <td style="text-align:center">Sets the category to an existing one. All voice channels will be created in this category.</td>
   </tr>
   <tr>
-        <td style="text-align:left">~admin channels [add/remove] [channel]</td>
+        <td style="text-align:left">~config channels [add/remove] [channel]</td>
         <td style="text-align:center">Sets which channels to check for commands in.</td>
   </tr>
   <tr>
-        <td style="text-align:left">~admin channels reset</td>
+        <td style="text-align:left">~config channels reset</td>
         <td style="text-align:center">Resets the channels list.</td>
   </tr>
   <tr>
-        <td style="text-align:left">~admin channels list</td>
+        <td style="text-align:left">~config channels list</td>
         <td style="text-align:center">Shows a list of allowed channels.</td>
   </tr>
   </table>
